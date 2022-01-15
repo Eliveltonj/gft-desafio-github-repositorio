@@ -1,2 +1,2 @@
-# gft-desafio-github-repositorio
-Desafio de Projeto Git/Github
+Desafio de projeto sobre Git/Github
+Repositorio criado para Desafio de Projeto
